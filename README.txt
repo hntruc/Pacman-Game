@@ -1,5 +1,6 @@
-Team members: 18127039 - 18127053 - 18127055
+Team members: 18127039 - 18127053 - 18127055.
 Class: 18CLC2.
+Course: Artificial Intelligence - HCMUS.
 
 Project Description:
 You are given a file which describe Pac-man World. Propose or apply learned algorithms to help Pac-Man to find foods without dying by monsters.
